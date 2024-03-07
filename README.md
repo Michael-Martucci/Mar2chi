@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that will help me develop
 - 📫 How to reach me .. ask first
 - 😄 Pronouns: ... 
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: I play GOTC
 
 <!---
 Mar2chi/Mar2chi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
