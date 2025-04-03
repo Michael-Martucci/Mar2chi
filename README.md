@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @Mar2chi
-- 👀 I’m interested in cloud architechture
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on anything that will help me develop
-- 📫 How to reach me .. ask first
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: I play GOTC
+# 🛠️ Early Work
 
-<!---
-Mar2chi/Mar2chi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository contains a couple of small beginner projects I created while learning the fundamentals of software development.
+
+## 📂 Projects Included
+
+### 1. Java Scanner
+A short Java file showcasing how to use the `Scanner` class to take user input from the console.
+
+### 2. Python Chess Game
+A lightweight text-based chess game written in Python (with help from ChatGPT), designed to simulate chess logic and basic gameplay.
+
+> 💡 These projects are not intended to be polished products — they represent early steps in my learning journey as a developer.
+
+## 📚 What I Learned
+- How to structure a small project
+- How to commit and push changes using Git
+- Basic syntax in languages like Python, HTML, CSS, or JavaScript
+- Writing simple logic, using loops and conditionals
+
+## 🔧 Future Plans
+I may refactor or expand on these projects in the future as I continue to grow my skills.
+
+## 🧑‍💻 Author
+Michael – Apprentice Software Developer  
+Learning Java, web development, and open source contribution.
+
